@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    unordered_map<string , int> mp;
+    unordered_map<string , int> mpp;
     
     //INSERTION
 
@@ -33,7 +33,7 @@ int main(){
     cout<<mp.count("ashika")<<endl;
 
     //searching Method : 2
-    if(mp.find("Suraj") != mp.end()){
+    if(mp`p.find("Suraj") != mp.end()){
         cout<<"Found" <<endl;
     }
     else{
