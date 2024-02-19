@@ -1,0 +1,1 @@
+{"name":"Local: createanempty","url":"d:\\LetsStart\\createanempty.cpp","tests":[{"id":1707928404352,"input":"10 20 30 40 50 60 70 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\LetsStart\\createanempty.cpp","group":"local","local":true}
