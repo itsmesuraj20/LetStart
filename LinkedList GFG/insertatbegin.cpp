@@ -17,6 +17,13 @@ Node* insertBegin(Node *head,int x){
     return temp;
 }
 
+void printList(Node *head){
+    Node *curr = head;
+    while(curr!= NULL){
+        cout<<curr->dat
+    }
+}
+
 
 int main()
 {
