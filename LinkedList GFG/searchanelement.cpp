@@ -16,7 +16,7 @@ int findLL(Node *head,int target){
     if(head == NULL) return -1;
 
     Node * curr = head;
-    int c=0;
+    int c=1;
     while(curr!=NULL){
         if(curr->data == target){
             return c;
