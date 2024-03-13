@@ -9,6 +9,7 @@ class Node{
         next = NULL;
     }
 };
+ds;flksd
 
 Node * sortInsert(Node * head , int target){
     Node * temp = new Node(target);
